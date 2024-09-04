@@ -5,7 +5,8 @@ My name is Naga Pranav Puppala, and I'm a junior at the University of Texas at D
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_puppala) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-%230077B5)](www.linkedin.com/in/pranav-puppala-243a4127a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PranavPuppala-%230077B5)](https://www.linkedin.com/in/pranav-puppala-243a4127a)
+
 
 
 # 💻 Tech Stack:
